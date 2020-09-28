@@ -1,0 +1,25 @@
+.demo[data-v-3e99c75a] {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 50px;
+  padding: 0 15px;
+  line-height: 50px;
+}
+.demo .label[data-v-3e99c75a] {
+    width: 100px;
+}
+.demo .label span[data-v-3e99c75a] {
+      margin-left: 3px;
+      color: #999;
+}
+.demo .cont[data-v-3e99c75a] {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    text-align: center;
+    font-size: 0;
+}
+

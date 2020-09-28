@@ -1,0 +1,10 @@
+.btn[data-v-64b88c00] {
+  margin-top: 10px;
+}
+.btn[data-v-64b88c00]:first-child {
+    margin-top: 0;
+}
+.demo-content[data-v-64b88c00] {
+  padding: 10px 15px;
+}
+

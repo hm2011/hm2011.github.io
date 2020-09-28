@@ -1,0 +1,14 @@
+.button-container[data-v-a946bf56] {
+  padding: 10px 15px;
+  line-height: 60px;
+}
+.button-container .btn[data-v-a946bf56] {
+    margin-right: 10px;
+}
+.button-container .btn.block[data-v-a946bf56] {
+      margin-top: 10px;
+}
+.button-container .btn.block[data-v-a946bf56]:first-child {
+        margin-top: 0;
+}
+

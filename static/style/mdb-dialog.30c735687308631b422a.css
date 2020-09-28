@@ -1,0 +1,11 @@
+.btn[data-v-a5648d2a] {
+  margin-top: 10px;
+}
+.btn[data-v-a5648d2a]:first-child {
+    margin-top: 0;
+}
+.demo-dialog-content[data-v-a5648d2a] {
+  padding: 15px;
+  height: 100px;
+}
+

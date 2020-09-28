@@ -1,0 +1,11 @@
+.view-box[data-v-c693edda] {
+  padding: 10px 0;
+  min-height: 30px;
+}
+.btn[data-v-c693edda] {
+  margin-top: 10px;
+}
+.btn[data-v-c693edda]:first-child {
+    margin-top: 0;
+}
+

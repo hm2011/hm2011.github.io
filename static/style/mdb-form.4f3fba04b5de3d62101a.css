@@ -1,0 +1,20 @@
+.btn[data-v-58c1f867] {
+  margin-top: 10px;
+}
+.btn[data-v-58c1f867]:first-child {
+    margin-top: 0;
+}
+.info[data-v-58c1f867] {
+  padding: 10px 15px;
+  background-color: #282923;
+  border-radius: 5px;
+  color: #F8F8F2;
+  font-family: 'Consolas';
+}
+.tips[data-v-58c1f867] {
+  margin: 10px 0;
+  padding: 0 15px;
+  font-size: 13px;
+  color: #888888;
+}
+

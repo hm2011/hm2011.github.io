@@ -1,0 +1,15 @@
+.icon[data-v-f0d26a9a] {
+  margin: 50px auto 0;
+  width: 200px;
+  height: 200px;
+  background: url(/static/image/error.2ff5a2f27847fbb491182afdc9dca5e5.png) no-repeat;
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+}
+.tips[data-v-f0d26a9a] {
+  margin: 20px auto 40px;
+  font-size: 15px;
+  line-height: 40px;
+  text-align: center;
+}
+

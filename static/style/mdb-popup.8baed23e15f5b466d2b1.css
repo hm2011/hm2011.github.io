@@ -1,0 +1,13 @@
+.btn[data-v-cee4db7a] {
+  margin-top: 10px;
+}
+.btn[data-v-cee4db7a]:first-child {
+    margin-top: 0;
+}
+.demo-content[data-v-cee4db7a] {
+  padding: 10px 15px;
+}
+.demo-content.higher[data-v-cee4db7a] {
+    height: 600px;
+}
+

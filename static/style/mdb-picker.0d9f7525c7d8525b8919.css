@@ -1,0 +1,13 @@
+.container[data-v-946f409e] {
+  -webkit-perspective-origin: center center;
+          perspective-origin: center center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 80px;
+}
+.demo-picker[data-v-946f409e] {
+  background-color: #fafafa;
+}
+

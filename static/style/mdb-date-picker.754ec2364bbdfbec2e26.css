@@ -1,0 +1,11 @@
+.btn[data-v-0f2ec3b8] {
+  margin-top: 10px;
+}
+.btn[data-v-0f2ec3b8]:first-child {
+    margin-top: 0;
+}
+.tips[data-v-0f2ec3b8] {
+  margin: 10px 15px;
+  color: #999;
+}
+

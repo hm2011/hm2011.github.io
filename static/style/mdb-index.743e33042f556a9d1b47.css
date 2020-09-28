@@ -1,0 +1,35 @@
+.mdb-list[data-v-0569d569] {
+  margin: 10px 0;
+  padding: 0;
+  background-color: #fff;
+  list-style: none;
+}
+.mdb-item[data-v-0569d569] {
+  position: relative;
+}
+.mdb-item[data-v-0569d569]::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 15px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    -webkit-transform: scaleY(0.5);
+        -ms-transform: scaleY(0.5);
+            transform: scaleY(0.5);
+}
+.mdb-item[data-v-0569d569]:first-child::before {
+    display: none;
+}
+.mdb-link-btn span[data-v-0569d569] {
+  margin-left: 5px;
+  color: #999;
+}
+@media (prefers-color-scheme: dark) {
+.mdb-link-btn span[data-v-0569d569] {
+    color: #666;
+}
+}
+
